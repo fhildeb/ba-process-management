@@ -1,4 +1,4 @@
-# business-process-management
+# ba-process-management
 
 HSMW BA Business Process Management Course from the University of Applied Science Mittweida that took place in 2018.
 
