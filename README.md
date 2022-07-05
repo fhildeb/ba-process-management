@@ -6,6 +6,5 @@ HSMW BA Business Process Management Course from the University of Applied Scienc
 
 ## Tools
 
-[XML: Diagrams.net](https://app.diagrams.net/)
-
-[BPMN: BPMN.io](https://demo.bpmn.io/)
+- XML: [Diagrams.net](https://app.diagrams.net/)
+- BPMN:[ BPMN.io](https://demo.bpmn.io/)
