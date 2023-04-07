@@ -26,7 +26,7 @@ Throughhout the course we build and worked on various process management structu
 1. Data Flow and Program Flow Diagrams
 2. Petri Net Modeling
 3. Deadlocks: Dining Philosophers Problem
-4.
+4. Event-Driven Process Chains
 5.
 
 ## Tools
