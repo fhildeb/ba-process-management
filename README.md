@@ -27,7 +27,7 @@ Throughhout the course we build and worked on various process management structu
 2. Petri Net Modeling
 3. Deadlocks: Dining Philosophers Problem
 4. Event-Driven Process Chains
-5.
+5. Business Process Model and Notation
 
 ## Tools
 
