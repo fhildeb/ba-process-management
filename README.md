@@ -24,7 +24,7 @@ Regarding the practical sessions, we built simulation exercises to better unders
 Throughhout the course we build and worked on various process management structures and simulations, of which 5 included diagrams and BPMN models.
 
 1. Data Flow and Program Flow Diagrams
-2.
+2. Petri Net Modeling
 3.
 4.
 5.
@@ -32,4 +32,5 @@ Throughhout the course we build and worked on various process management structu
 ## Tools
 
 - XML: [Diagrams.net](https://app.diagrams.net/)
+- PIPE: [PIPE 5 Petri Net Editor](https://github.com/sarahtattersall/PIPE)
 - BPMN:[BPMN.io](https://demo.bpmn.io/)

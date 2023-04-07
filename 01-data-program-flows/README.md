@@ -20,6 +20,6 @@ Model of a complete flowchart for shopping items in the grocery store.
 
 ## Library Book Renting Flowchart
 
-Model of a flowchart for collecting and renting books in a library
+Model of a flowchart for collecting and renting books in a library.
 
 ![Book Renting](/img/01-book-renting.png)
