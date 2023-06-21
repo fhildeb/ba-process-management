@@ -58,19 +58,17 @@ Scenario: A computer is connected to a printer. The computer sends print jobs to
 ### Single Printer Computer Setup
 
 ```code
-The computer P0 sends a print job T0 to the queue (P1).
-Feedback from T0 to P0 allows the computer to continue
-and send more print jobs. If there is a print job or
-jobs in the queue, so there are marks in P1, T1 can
-fire when the printer is ready (P3 is marked).
+1. The computer P0 sends a print job T0 to the queue (P1).
+2. Feedback from T0 to P0 allows the computer to continue and send more print jobs.
+3. If there is a print job or jobs in the queue, so there are marks in P1.
+4. T1 can fire when the printer is ready (P3 is marked).
 
-The printer prints when P2 is marked. If the printer is
-currently processing a job (P2 is marked), there is no mark
-in P3. This means that the printer cannot execute a new job
-(T1 cannot fire), even if there are still print jobs in the
-queue. (I.e. P1 still contains at least one mark). After
-printing, T2 switches, thus the status "ready" (P3 is marked)
-is reached. The next print job can be fetched and processed.
+1. The printer prints when P2 is marked.
+2. If the printer is currently processing a job (P2 is marked), there is no mark in P3.
+3. The printer cannot execute a new job (T1 cannot fire), even if there are jobs in the queue.
+4. P1 still contains at least one mark. After printing, T2 switches.
+5. The status "ready" (P3 is marked) is reached.
+6. The next print job can be fetched and processed.
 ```
 
 ![Computer Printer 1](/img/02-computer-printer-1.png)
